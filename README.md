@@ -324,6 +324,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for Kuvaka Tech Frontend Developer Assignment**
-#   G e m i n i 
- 
- 
+#
