@@ -6,8 +6,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🌟 Live Demo
 
-🔗 **[Live Demo]([https://your-deployment-url.vercel.app](https://gemini-ashy-two.vercel.app/)** | 📚 **[GitHub Repository](https://github.com/prem-prasad1710/gemini-frontend-clone)**
-
+🔗 **[Live Demo]([https://your-deployment-url.vercel.app](https://gemini-ashy-two.vercel.app/)** 
 ## 📸 Screenshots
 
 ### 🔐 Authentication Flow
