@@ -1,5 +1,5 @@
 # 🚀 Gemini Frontend Clone
-
+<img src="chat.png" alt="chat"/>
 > **Kuvaka Tech Frontend Developer Assignment**
 
 A fully functional, responsive, and visually appealing frontend for a Gemini-style conversational AI chat application built with Next.js 15, TypeScript, and Tailwind CSS.
