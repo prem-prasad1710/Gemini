@@ -6,20 +6,20 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🌟 Live Demo
 
-🔗 **[Live Demo](https://your-deployment-url.vercel.app)** | 📚 **[GitHub Repository](https://github.com/your-username/gemini-frontend-clone)**
+🔗 **[Live Demo]([https://your-deployment-url.vercel.app](https://gemini-ashy-two.vercel.app/)** | 📚 **[GitHub Repository](https://github.com/prem-prasad1710/gemini-frontend-clone)**
 
 ## 📸 Screenshots
 
 ### 🔐 Authentication Flow
-![Auth Flow](https://via.placeholder.com/800x400/3B82F6/white?text=OTP+Authentication+Flow)
+<img src="auth.png" alt="auth"/>
 *OTP-based authentication with country code selection*
 
 ### 💬 Chat Interface  
-![Chat Interface](https://via.placeholder.com/800x400/10B981/white?text=AI+Chat+Interface)
+<img src="chat.png" alt="chat"/>
 *Real-time chat with AI responses and typing indicators*
 
 ### 📱 Mobile Responsive
-![Mobile View](https://via.placeholder.com/400x600/8B5CF6/white?text=Mobile+Responsive+Design)
+<img src="mobile.png" alt="mobile"/>
 *Fully responsive design optimized for all devices*
 
 ## 🎯 Assignment Requirements ✅
@@ -307,11 +307,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Kuvaka Tech Frontend Developer Assignment Submission**
 
-- 👨‍💻 **Candidate**: [Your Name]
-- 📧 **Email**: [your.email@example.com]
-- 🔗 **GitHub**: [@your-username](https://github.com/your-username)
-- 🌐 **Live Demo**: [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
-- 📋 **Repository**: [https://github.com/your-username/gemini-frontend-clone](https://github.com/your-username/gemini-frontend-clone)
+- 👨‍💻 **Candidate**: [Prem Prasad]
+- 📧 **Email**: [Pr20090066870@gmail.com]
+- 🔗 **GitHub**: [@prem-prasad1710](https://github.com/prem-prasad1710)
+- 🌐 **Live Demo**: Live(https://gemini-ashy-two.vercel.app/)
 
 ### 📝 Assignment Checklist
 - ✅ Complete implementation of all requirements
@@ -323,5 +322,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for Kuvaka Tech Frontend Developer Assignment**
+**Built by Prem with ❤️ for Kuvaka Tech Frontend Developer Assignment**
 #
